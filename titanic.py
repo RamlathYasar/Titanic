@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Test comment
 #IMPORT DATASET
 trainset = pd.read_csv('train.csv')
 testset = pd.read_csv('test.csv')
